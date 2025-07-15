@@ -1,2 +1,3 @@
 hello
 printf("hello");
+"added from terminal" 
